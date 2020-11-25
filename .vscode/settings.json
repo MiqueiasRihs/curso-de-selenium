@@ -1,4 +1,16 @@
 {
     "python.linting.enabled": true,
-    "python.linting.flake8Enabled": true
+    "python.linting.flake8Enabled": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Obrazul",
+            "database": "obrazul_0803",
+            "username": "postgres",
+            "password": ""
+        }
+    ]
 }
