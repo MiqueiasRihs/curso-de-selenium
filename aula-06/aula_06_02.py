@@ -16,12 +16,24 @@ tag_name_senha = b.find_element_by_css_selector('[name="senha"]')
 tag_name_btn = b.find_element_by_css_selector('[name="l0c0"]')
 
 # ===== Usando a atributo [att*=valor] =====
+"""
 nome = b.find_element_by_css_selector('[name*="ome"]')
 senha = b.find_element_by_css_selector('[name*="nha"]')
 btn = b.find_element_by_css_selector('[name*="l0"]')
+"""
+
+# ===== Usando a atributo [att|=valor] =====
+"""
+nome = b.find_element_by_css_selector('[name|="nome"]')
+senha = b.find_element_by_css_selector('[name|="senha"]')
+btn = b.find_element_by_css_selector('[name|="l0c0"]')
+"""
+
+# ===== Usando a atributo [att^=valor] =====
+nome = b.find_element_by_css_selector('[name^="n"]')
+senha = b.find_element_by_css_selector('[name^="s"]')
+btn = b.find_element_by_css_selector('[name^="l"]')
 
 nome.send_keys('Miqueias')
 senha.send_keys('123')
-btn.click()
-
-builtin_function_or_method
+# btn.click()
