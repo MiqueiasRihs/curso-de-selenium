@@ -120,3 +120,4 @@ console.info: MINT: Loading search-config defaults.
 1606836354570	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
 console.info: MINT: main/search-config update being skipped
+1606842232356	Marionette	INFO	Stopped listening on port 42887

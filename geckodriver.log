@@ -308,3 +308,310 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 console.info: MINT: Loading search-config defaults.
 JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
 1606063826249	Marionette	INFO	Stopped listening on port 44227
+1606842162648	geckodriver	INFO	Listening on 127.0.0.1:46351
+1606842162666	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegWpoWu"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606842166868	Marionette	INFO	Listening on port 40231
+1606842166921	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+1606842220650	geckodriver	INFO	Listening on 127.0.0.1:45057
+1606842220656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu6F1nY"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606842225020	Marionette	INFO	Listening on port 46175
+1606842225096	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606842225346	Marionette	INFO	Stopped listening on port 40231
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606842304894	Marionette	INFO	Stopped listening on port 46175
+1606842310762	geckodriver	INFO	Listening on 127.0.0.1:58011
+1606842310767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerhymMC"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606842314794	Marionette	INFO	Listening on port 45933
+1606842314908	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+console.info: MINT: main/search-config update being skipped
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606842795764	Marionette	INFO	Stopped listening on port 45933
+1606842804938	geckodriver	INFO	Listening on 127.0.0.1:41119
+1606842804945	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNgXLZ5"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606842808741	Marionette	INFO	Listening on port 38543
+1606842808783	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+1606842817399	Marionette	INFO	Stopped listening on port 38543
+1606842847597	geckodriver	INFO	Listening on 127.0.0.1:56545
+1606842847602	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledSXOw1"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606842851357	Marionette	INFO	Listening on port 43097
+1606842851439	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+1606842955417	Marionette	INFO	Stopped listening on port 43097
+1606842957029	geckodriver	INFO	Listening on 127.0.0.1:58793
+1606842957035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefB93dS"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606842960775	Marionette	INFO	Listening on port 41237
+1606842960873	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+1606842969264	Marionette	INFO	Stopped listening on port 41237
+1606842993297	geckodriver	INFO	Listening on 127.0.0.1:38971
+1606842993302	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN7c7VK"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606842997542	Marionette	INFO	Listening on port 42775
+1606842997638	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+1606843049368	geckodriver	INFO	Listening on 127.0.0.1:43417
+1606843049373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled6Kx1F"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606843053266	Marionette	INFO	Listening on port 46381
+1606843053303	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+1606843062764	Marionette	INFO	Stopped listening on port 46381
+1606843063671	Marionette	INFO	Stopped listening on port 42775
+1606843155151	geckodriver	INFO	Listening on 127.0.0.1:36411
+1606843155156	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenBm5Tp"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606843158821	Marionette	INFO	Listening on port 33277
+1606843158893	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+console.error: (new TypeError("store is null", "resource://devtools/client/webconsole/webconsole-wrapper.js", 220))
+TypeError: store is null: dispatchSplitConsoleCloseButtonToggle@resource://devtools/client/webconsole/webconsole-wrapper.js:220:5
+_onChangeSplitConsoleState@resource://devtools/client/webconsole/webconsole-ui.js:648:18
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+closeSplitConsole@resource://devtools/client/framework/toolbox.js:2821:10
+toggleSplitConsole@resource://devtools/client/framework/toolbox.js:2839:16
+_splitConsoleOnKeypress@resource://devtools/client/framework/toolbox.js:1541:12
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1606843409427	Marionette	INFO	Stopped listening on port 33277
+1606843413902	geckodriver	INFO	Listening on 127.0.0.1:51913
+1606843413906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewPptsN"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606843417689	Marionette	INFO	Listening on port 34793
+1606843417747	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
+1606843435146	Marionette	INFO	Stopped listening on port 34793
