@@ -615,3 +615,31 @@ JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab171
 JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
 JavaScript warning: https://www.dataunion.com.br/45c4182f-ea0e-41ab-9319-e5ab1717f558, line 1: WebGL context was lost.
 1606843435146	Marionette	INFO	Stopped listening on port 34793
+1607378593741	geckodriver	INFO	Listening on 127.0.0.1:40807
+1607378594691	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelqGFW9"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607378611426	Marionette	INFO	Listening on port 45745
+1607378611784	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+JavaScript error: https://s3.glbimg.com/v1/AUTH_b002e0039b9f46a5a4a94ff667d31e2d/assets/dist/4c1064b084af3049b2b15cc8c22692c4.js, line 5: SyntaxError: An invalid or illegal string was specified
+1607378649873	Marionette	INFO	Stopped listening on port 45745
+JavaScript error: , line 0: uncaught exception: undefined
+1607379329388	geckodriver	INFO	Listening on 127.0.0.1:42221
+1607379329394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehYbRGF"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607379333617	Marionette	INFO	Listening on port 34193
+1607379333729	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+JavaScript error: https://s3.glbimg.com/v1/AUTH_b002e0039b9f46a5a4a94ff667d31e2d/assets/dist/4c1064b084af3049b2b15cc8c22692c4.js, line 5: SyntaxError: An invalid or illegal string was specified
+1607379360892	Marionette	INFO	Stopped listening on port 34193
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilehYbRGF/protections.sqlite

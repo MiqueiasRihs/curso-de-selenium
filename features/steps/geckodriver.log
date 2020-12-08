@@ -1,0 +1,101 @@
+1607379504447	geckodriver	INFO	Listening on 127.0.0.1:43777
+1607379504453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepGUoHA"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607379508248	Marionette	INFO	Listening on port 32837
+1607379508295	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+JavaScript error: https://s3.glbimg.com/v1/AUTH_b002e0039b9f46a5a4a94ff667d31e2d/assets/dist/4c1064b084af3049b2b15cc8c22692c4.js, line 5: SyntaxError: An invalid or illegal string was specified
+1607379525729	Marionette	INFO	Stopped listening on port 32837
+1607379595574	geckodriver	INFO	Listening on 127.0.0.1:55895
+1607379595579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTYVbPe"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607379599301	Marionette	INFO	Listening on port 44435
+1607379599417	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+JavaScript error: https://s3.glbimg.com/v1/AUTH_b002e0039b9f46a5a4a94ff667d31e2d/assets/dist/4c1064b084af3049b2b15cc8c22692c4.js, line 5: SyntaxError: An invalid or illegal string was specified
+console.error: (new Error("Connection closed, pending request to server0.conn0.child3/domwalker31, type querySelector failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:280:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nquerySelector@resource://devtools/client/fronts/walker.js:152:34\n_getDefaultNodeForSelection/defaultNodeSelectors<@resource://devtools/client/inspector/inspector.js:464:20\n_getDefaultNodeForSelection@resource://devtools/client/inspector/inspector.js:471:26\n", "resource://devtools/shared/protocol/Front.js", 101))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 101: Error: Connection closed, pending request to root, type protocolDescription failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:280:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getActorDescription@resource://devtools/client/fronts/targets/target-mixin.js:257:54
+actorHasMethod@resource://devtools/client/fronts/targets/target-mixin.js:288:19
+_initSimulationFeatures@resource://devtools/client/inspector/rules/rules.js:471:68
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1607379661778	Marionette	INFO	Stopped listening on port 44435
+1607379733406	geckodriver	INFO	Listening on 127.0.0.1:49081
+1607379733412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9mM8V0"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607379736979	Marionette	INFO	Listening on port 38621
+1607379737045	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+JavaScript error: https://blog.geekhunter.com.br/wp-content/cache/minify/39ea7.js, line 140: TypeError: $.browser is undefined
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1607379774208	geckodriver	INFO	Listening on 127.0.0.1:54917
+1607379774215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledGZTil"
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607379778223	Marionette	INFO	Listening on port 39111
+1607379778249	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 161: TypeError: date is undefined
+JavaScript error: https://blog.geekhunter.com.br/wp-content/cache/minify/39ea7.js, line 140: TypeError: $.browser is undefined
+JavaScript error: https://c.disquscdn.com/next/embed/common.bundle.2b6a730d7d5eff80032e6b2e3ff8cab6.js, line 8: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://blog.geekhunter.com.br/wp-content/cache/minify/86a5d.js, line 140: TypeError: $.browser is undefined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

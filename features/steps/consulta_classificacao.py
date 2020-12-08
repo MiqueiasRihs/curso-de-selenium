@@ -17,10 +17,10 @@ def step_impl(context):
 
 @when(u'clico no menu do brasileirao')
 def step_impl(context):
-    context.element_menu = context.web.find_element_by_class_name(element_menu)
-    context.element_menu.click()
-    context.element_link_brasileirao = context.web.find_element_by_class_name(element_link_brasileirao)
-    context.element_link_brasileirao.click()
+    element_menu = context.web.find_element_by_class_name(element_menu)
+    element_menu.click()
+    element_link_brasileirao = context.web.find_element_by_class_name(element_link_brasileirao)
+    element_link_brasileirao.click()
 
 
 @when(u'classificacao e exibida')
