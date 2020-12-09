@@ -2,7 +2,14 @@ from behave import given, when, then
 from time import sleep
 
 # Obrazul website
-base_url = 'https://dev.obrazul.com.br/'
+base_url = 'http://localhost/'
+
+# Variables with discount coupon data
+coupon_name = 'Teste-Selenium'
+valid_date = '07/12/2020 00:00 até 03/11/2021 23:59'
+code = 'SELENIU'
+minimum_value = '50.00'
+discount = '10.00'
 
 
 @given(u'The user is on the home website page')
@@ -10,53 +17,57 @@ def step_impl(context):
     context.web.get(base_url)
 
 
-@given(u'Click on \'Entre\'')
+@then(u'Click on \'Entre\'')
 def step_impl(context):
-    login_link = context.web.find_element_by_css_selector('[class="navbar-brand"]')
+    login_link = context.web.find_element_by_css_selector('[href="/login/"]')
     login_link.click()
-    sleep(3)
+    sleep(0.5)
 
 
-@when(u'The user logs in')
+@then(u'The user logs in')
 def step_impl(context):
-    raise NotImplementedError(u'STEP: When The user logs in')
+    email_address = context.web.find_element_by_css_selector('[name="login"]')
+    password = context.web.find_element_by_css_selector('[name="password"]')
+    submit_btn = context.web.find_element_by_css_selector('[type="submit"]')
 
-
-@when(u'The user should be redirected to their dashboard')
-def step_impl(context):
-    raise NotImplementedError(u'STEP: When The user should be redirected to their dashboard')
+    email_address.send_keys("desenvolvimento@obrazul.com.br")
+    password.send_keys("Obr@zul2020")
+    submit_btn.click()
+    sleep(0.5)
 
 
 @given(u'The user is on dashboard page')
 def step_impl(context):
-    raise NotImplementedError(u'STEP: Given The user is on dashboard page')
+    menu_item = context.web.find_element_by_css_selector('[href="#menu-products-and-stores"]')
+    menu_item.click()
+    sleep(0.5)
 
 
-@then(u'The user should be click on \'Cupons de Desconto\'')
+@then(u'click on \'Cupons de Desconto\'')
 def step_impl(context):
-    raise NotImplementedError(u'STEP: Then The user should be click on \'Cupons de Desconto\'')
-
-
-@then(u'The user should be redirected to discount coupon creation page')
-def step_impl(context):
-    raise NotImplementedError(u'STEP: Then The user should be redirected to discount coupon creation page')
+    menu_item = context.web.find_element_by_css_selector('[href="/dashboard/cupons-de-desconto/"]')
+    menu_item.click()
+    sleep(0.5)
 
 
 @given(u'The user is discount coupon creation page')
 def step_impl(context):
-    raise NotImplementedError(u'STEP: Given The user is discount coupon creation page')
-
-
-@then(u'click on \'Novo Cupom\'')
-def step_impl(context):
-    raise NotImplementedError(u'STEP: Then click on \'Novo Cupom\'')
+    new_coupon_btn = context.web.find_element_by_css_selector('[id="btn-coupon"]')
+    new_coupon_btn.click()
+    sleep(2)
 
 
 @then(u'insert coupon information')
 def step_impl(context):
-    raise NotImplementedError(u'STEP: Then insert coupon information')
+    context.web.find_element_by_css_selector('[name="cupon_name"]').send_keys(coupon_name)
+    context.web.find_element_by_css_selector('[name="valid_date"]').send_keys(valid_date)
+    context.web.find_element_by_css_selector('[name="cupon_code"]').send_keys(code)
+    context.web.find_element_by_css_selector('[name="min_price"]').send_keys(minimum_value)
+    context.web.find_element_by_css_selector('[name="discount_value"]').send_keys(discount)
 
 
 @then(u'click on \'Criar\'')
 def step_impl(context):
-    raise NotImplementedError(u'STEP: Then click on \'Criar\'')
+    create_btn = context.web.find_element_by_css_selector('[type="submit"]')
+    create_btn.click()
+    sleep(4)
